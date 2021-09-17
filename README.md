@@ -1,2 +1,3 @@
-# DarkMatter
-( ダークマター ) A graphical user interface library
+# ⚫️ DarkMatter
+
+A graphical user interface library
